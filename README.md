@@ -1,4 +1,4 @@
-# Der "digitale Adventskalender" von KPMG
+# Der digitale Adventskalender von KPMG
 
 ## Kurzbeschreibung
 
