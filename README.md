@@ -29,5 +29,5 @@ Sie möchten den Adventskalender an das Erscheinungsbild Ihres Unternehmens anpa
 
 <b>Ihre Ansprechpartner</b>
 
-Cindy Frank, Senior Managerin, ERP Consulting, cfrank3@kpmg.com, Tel. +49 30 2068-1356<br>
+Cindy Frank, Senior Manager, ERP Consulting, cfrank3@kpmg.com, Tel. +49 30 2068-1356<br>
 Benedikt Winckler, ERP Consulting, bwinckler@kpmg.com, Tel. +49 30 2068-2425
