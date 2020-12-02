@@ -23,6 +23,10 @@ Haben Sie weitere Fragen oder möchten Sie den Adventskalender individualisieren
 
 Die Implementierungsanleitung finden Sie im Root-Verzeichnis des Projekts. Gerne sind wir Ihnen bei der Einbindung des Adventskalenders behilflich.
 
+## Unterstützte Versionen
+
+Der Adventskalender unterstützt aktuell ausschließlich SharePoint Online. Bitte kontaktieren Sie uns, wenn Sie den Adventskalender auf einer älteren Version von SharePoint (On-Premise) verwenden möchten.
+
 ## Individuelle Anpassungen
 
 Sie möchten den Adventskalender an das Erscheinungsbild Ihres Unternehmens anpassen und individuelle Funktionalitäten einbinden? Sprechen Sie uns gerne an.
